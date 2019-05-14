@@ -1,0 +1,13 @@
+D:\DATA HESTU\C#\IMRSA\IMRSA\bin\Debug\IMRSA.exe.config
+D:\DATA HESTU\C#\IMRSA\IMRSA\bin\Debug\IMRSA.exe
+D:\DATA HESTU\C#\IMRSA\IMRSA\bin\Debug\IMRSA.pdb
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.csprojResolveAssemblyReference.cache
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.Form1.resources
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.NotificationForm.resources
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.Properties.Resources.resources
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.csproj.GenerateResource.Cache
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.exe
+D:\DATA HESTU\C#\IMRSA\IMRSA\obj\Debug\IMRSA.pdb
+\\192.168.1.9\data hestu\C#\IMRSA\IMRSA\bin\Debug\IMRSA.exe.config
+\\192.168.1.9\data hestu\C#\IMRSA\IMRSA\obj\Debug\IMRSA.exe
+\\192.168.1.9\data hestu\C#\IMRSA\IMRSA\obj\Debug\IMRSA.pdb
